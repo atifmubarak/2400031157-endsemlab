@@ -1,0 +1,12 @@
+{
+  "name": "simple-js-project",
+  "version": "1.0.0",
+  "description": "Tiny two-file JS demo",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "node main.js"
+  },
+  "author": "",
+  "license": "MIT"
+}
