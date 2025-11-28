@@ -1,4 +1,4 @@
 Overview: Project features
-Status: baseline
+Status: event branch updated - Event Calendar added
 - Course Registration: not implemented
-- Event Calendar: not implemented
+- Event Calendar: implemented (branch: feature-event)
