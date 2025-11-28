@@ -1,0 +1,4 @@
+Overview: Project features
+Status: baseline
+- Course Registration: not implemented
+- Event Calendar: not implemented
